@@ -12,7 +12,7 @@ The dataset contains individual transactions, including product details, custome
 ---
 
 ## 📂 Files in Repository
-- **`ecommerce_data.csv`** → Raw dataset used for analysis  
+- **`data.csv`** → Raw dataset used for analysis  
 - **`ecommerce_analysis.ipynb`** → Jupyter Notebook with data cleaning, exploration, and insights  
 - **`README.md`** → This file, describing the project  
 
